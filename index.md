@@ -8,7 +8,7 @@ title: Home
 
 ## Team Members and Contact Infomation
 
-[link to team and contact](egr557-sp21-team4.github.io/blob/main/teamcontact.md)
+[link to team and contact](/teamcontact.md)
 
 **Bold Text**
 _Italic Text_
