@@ -8,7 +8,7 @@ title: Home
 
 ## Team Members and Contact Infomation
 
-[link to team and contact](../docs/teamcontact.md)
+[link to team and contact](/docs/teamcontact.md)
 
 **Bold Text**
 _Italic Text_
