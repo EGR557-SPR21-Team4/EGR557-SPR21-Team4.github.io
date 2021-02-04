@@ -25,7 +25,7 @@ Refined:
 
 ## Previous Assignments
 
-[Develop a Research Question](develop-a-research-question.md)
+[Develop a Research Question](develop-a-research-question.md) 
 [Biomechanics Background and Initial Specifications](biomechanics-background-and-initial-specifications.md)
 
 ## Results
