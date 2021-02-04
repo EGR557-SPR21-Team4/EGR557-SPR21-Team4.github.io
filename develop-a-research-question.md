@@ -152,7 +152,7 @@ account, as some folds can create stronger structures than others. There will ne
 rigidity and flexibility when finding a viable solution, two aspects that are crucial when designing a
 foldable robotic system
 
-#### References
+#### [References](references.md)
 
 [1] A. M. Hoover, E. Steltz, and R. S. Fearing, “RoACH: An autonomous 2.4g crawling hexapod robot,” 2008, doi: 10.1109/IROS.2008.4651149.
 
