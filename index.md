@@ -6,7 +6,7 @@ title: EGR557 Foldable Robotics Spring 2021
 
 ## Introduction
 
-## Team Members and Contact Infomation
+## Team Members
 
 [Team and Contact](/teamcontact.md)
 
@@ -27,9 +27,9 @@ Refined:
 
 ## Results
 
-1. Numbered Point 1
-1. Numbered Point 2
-1. Numbered Point 3
+1. TBD
+1. TBD
+1. TBD
 
 ## Conclusions and Future Work
 
