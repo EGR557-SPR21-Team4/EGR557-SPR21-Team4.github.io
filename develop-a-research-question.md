@@ -7,7 +7,7 @@ How can we use foldable robotic techniques to design a compressible robot capabl
 How can folding techniques be used to design self-collapsible robots capable of scaling tight and inclined spaces?
 
 
-# Tractability
+## Tractability
   Our team has refined the initial research question by focusing more on tightly inclined spaces.
 Although our robot design will still have the ability to pass through tight spaces, it will focus more on
 climbing and descending angled terrain. Similar to the compression traits seen in a cockroach, our design
@@ -19,7 +19,7 @@ foldable robotic techniques will be implemented to minimize the use of bulky and
 Although there are similar compressible designs being researched, our prototype will aim to expand robot
 accessibility to tight crevices that change in size.
 
-# Novelty
+## Novelty
   To initialize our team's literature review, words like cockroach, crawl, compressibe, shrink, tight,
 space, small, cracks, climbing, squish, and foldable were used to narrow down the research results.The
 four highly cited references that closely resemble our research question included:
@@ -60,7 +60,7 @@ HARP also has the ability to curve its body in three dimensional space with only
 [2]. Although it is not used to navigate through tight crevices due to its large diameter, the probe
 uses a limited amount of actuators to control its position along a curved pathway.
 
-# Interesting
+## Interesting
   Research in the field of Robotics is always on the lookout for solutions that are smart, affordable,
 readily available, have less impact on the environment, and so forth. In recent years, people have been
 connecting with each other through the internet, more than they have in the past. This paves the way for
@@ -109,7 +109,7 @@ said organisms. This research plans on using bio-inspiration combined with folda
 which can potentially help pave the way for further developments that can improve existing applications
 such as wheelchairs for the paraplegic, large-scale manufacturing in factories, etc.
 
-# Open-ended
+## Open-ended
   This research focus is extremely open-ended. If this investigation is used as the baseline, a more
 effective and efficient self collapsing tiny structure could be realized. Given more time and resources, the
 lessons learned from this research could be used to tweak and alter the designs to provide a superior
@@ -119,7 +119,7 @@ minimal physical footprint has numerous applications in mining and exploration ,
 places previously unknown. Foldable robotics that are cheap, as well as easy to assemble and operate may
 be an economically advantageous market for future exploration endeavors.
 
-# Modular
+## Modular
   Researching self-collapsable robots that are capable of traversing inclines within small areas has
 significant compatibility with other research topics for foldable robotics. The collapsibility factor is a
 highly desirable attribute when dealing with nearly all applications of robotics. Being able to take the
@@ -129,7 +129,7 @@ mechanisms that are simple yet effective at scaling inclines, they could be adde
 functions, increasing versatility and function. Ultimately, any research which yields any small
 improvement in the field could have untold complementary application value.
 
-# Team fit
+## Team fit
   Of the members in this team, three have a focus in robotics engineering, while the fourth has a
 focus on manufacturing. At least one team member has always loved folding origami, a core principle of
 foldable robotics, as the system needs to be able to collapse and fold in on itself either to take up less
@@ -141,7 +141,7 @@ mix of members who have experience with the more hands-on aspect as well as thos
 experience with the theoretical and simulation aspects. Combined, this team should be equipped to take
 on the challenges of this research from multiple angles.
 
-# Topic fit
+## Topic fit
   In order to adapt to different physical spaces, a robot that is capable of manipulating its own
 dimensions would be perfectly suited to traverse a wide range of inclined, if not completely vertical,
 surfaces. Foldable robotics techniques can equip a robot with the ability to both self-expand and collapse,
@@ -152,7 +152,7 @@ account, as some folds can create stronger structures than others. There will ne
 rigidity and flexibility when finding a viable solution, two aspects that are crucial when designing a
 foldable robotic system
 
-### References
+#### References
 
 [1] A. M. Hoover, E. Steltz, and R. S. Fearing, “RoACH: An autonomous 2.4g crawling hexapod robot,” 2008, doi: 10.1109/IROS.2008.4651149.
 
