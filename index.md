@@ -21,12 +21,12 @@ Refined:
 * How can folding techniques be used to design self-collapsible robots capable of scaling tight and inclinded spaces?
 
 ## Background
-[Link to background](/background.md)
+[Background](/background.md)
 
 ## Previous Assignments
 
-[link to develop a research question](
-[link to biomechanics background and initial specifications][biomechanics background and initial specifications]
+[Develop a Research Question](develop-a-research-question.md)
+[Biomechanics Background and Initial Specifications](biomechanics-backgroun-and-initial-specifications.md)
 
 ## Results
 
