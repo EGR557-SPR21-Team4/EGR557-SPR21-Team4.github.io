@@ -1,3 +1,6 @@
-#Biomechanics Background and Initial Specifications.md
+>[Home](index.md)
+# Biomechanics Background and Initial Specifications
 
-Sample text here
+
+[References](references.md)
+
