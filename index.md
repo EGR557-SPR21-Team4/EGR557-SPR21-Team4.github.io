@@ -31,6 +31,6 @@ title: EGR557 Foldable Robotics Spring 2021
 
 ## External Links
 
-## References
+## [References](references.md)
 
 
