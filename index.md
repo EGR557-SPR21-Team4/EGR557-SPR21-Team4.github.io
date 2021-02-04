@@ -27,7 +27,7 @@ Refined:
 
 [Develop a Research Question](develop-a-research-question.md)
 
-[Biomechanics Background and Initial Specifications](biomechanics-backgroun-and-initial-specifications.md)
+[Biomechanics Background and Initial Specifications](biomechanics-background-and-initial-specifications.md)
 
 ## Results
 
