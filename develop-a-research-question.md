@@ -1,4 +1,5 @@
 # Team 4 Research Question
+[Home](home.md)
 
 **Original Research Question:**  
 How can we use foldable robotic techniques to design a compressible robot capable of navigating through tight spaces?
