@@ -10,10 +10,6 @@ title: Home
 
 [Team and Contact](/teamcontact.md)
 
-**Bold Text**
-_Italic Text_
-**_Bold and Italic Text_**
-
 ## Research Question
 Orginal:
 * How can we use foldable robotic techiques to design a compressible robot capable of navigating through tight spaces?
