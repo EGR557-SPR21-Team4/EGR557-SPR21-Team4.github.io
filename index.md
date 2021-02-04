@@ -12,7 +12,8 @@ title: Home
 
 ## Research Question
 Orginal:
-* How can we use foldable robotic techiques to design a compressible robot capable of navigating through tight spaces? 
+* How can we use foldable robotic techiques to design a compressible robot capable of navigating through tight spaces?
+
 Refined:
 * How can folding techniques be used to design self-collapsible robots capable of scaling tight and inclinded spaces?
 
