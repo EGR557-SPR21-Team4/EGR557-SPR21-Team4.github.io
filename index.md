@@ -11,11 +11,7 @@ title: EGR557 Foldable Robotics Spring 2021
 [Team and Contact](/teamcontact.md)
 
 ## Research Question
-Orginal:
-* How can we use foldable robotic techiques to design a compressible robot capable of navigating through tight spaces?
-
-Refined:
-* How can folding techniques be used to design self-collapsible robots capable of scaling tight and inclinded spaces?
+**How can folding techniques be used to design self-collapsible robots capable of scaling tight and inclinded spaces?**
 
 ## Background
 [Background](/background.md)
