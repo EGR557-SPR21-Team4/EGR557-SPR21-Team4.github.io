@@ -21,6 +21,7 @@ Refined:
 * How can folding techniques be used to design self-collapsible robots capable of scaling tight and inclinded spaces?
 
 ## Background
+[Link to background](/background.md)
 
 ## Previous Assignments
 
