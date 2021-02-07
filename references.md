@@ -16,3 +16,6 @@ and inspire a soft, legged robot,” Proc. Natl. Acad. Sci. U. S. A., vol. 113, 
 
 4. Y. Sugiyama and S. Hirai, “Crawling and jumping by a deformable robot,” in International
 Journal of Robotics Research, 2006, vol. 25, no. 5–6, doi: 10.1177/0278364906065386.
+
+From [Biomechanics Background and Initial Specifications](biomechanics-background-and-initial-specifications.md)
+
