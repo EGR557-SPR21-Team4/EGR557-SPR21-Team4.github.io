@@ -5,7 +5,9 @@
 
   Team four designed their bio-inspired mechanism based on the biomechanics of the American Cockroach, also known as the Periplaneta Americana, shown in Fig 1. Although the critter stands 12 millimeters tall, it can compress its body enough to fit through crevices as small as 3 millimeters. Their six long and barbed legs allow them to run on inclined surfaces with speeds up to 50 body lengths per second.
   
-  _**Fig 1.** American Cockroach [9]_
+  <p align="center"> 
+  <img width="479" alt="Screen Shot 2021-02-08 at 4 08 05 PM" src="https://user-images.githubusercontent.com/75342978/107292907-d6815100-6a27-11eb-9f01-aa00b2e212af.png">
+  </p> 
   
   Our team was able to filter through multiple sources of information in order to gain more background knowledge on the American Cockroach. The team found a total of five supplemental research papers [1-5] and narrowed them down to the three most beneficial [1, 2, 3]. Through these papers, the team was able to acquire physical and quantitative specifications of the insect. These details will be further discussed in the section below.
   
@@ -59,28 +61,51 @@ We will calculate the kinetic energy of a cockroach using basic kinetic formulas
 
 ## 5 Figures From Literature
 
-_**Fig 2.** Diagram of a cockroach [11]_
+  <p align="center"> 
+  <img width="449" alt="Screen Shot 2021-02-08 at 4 01 46 PM" src="https://user-images.githubusercontent.com/75342978/107292368-f3695480-6a26-11eb-83f2-f206991f0282.png">
+  </p> 
+  
 
-_**Fig 3.** Views of the cockroach moving through tight spaces from both the front and side [1]_
+  <p align="center"> 
+  <img width="519" alt="Screen Shot 2021-02-08 at 4 02 24 PM" src="https://user-images.githubusercontent.com/75342978/107292405-0a0fab80-6a27-11eb-83aa-67c273ee23f1.png">
+  </p> 
 
-_**Fig 4.** Five stages of crevice traversal vs crevice height [1]_
+  <p align="center"> 
+  <img width="362" alt="Screen Shot 2021-02-08 at 4 03 25 PM" src="https://user-images.githubusercontent.com/75342978/107292496-2f041e80-6a27-11eb-990a-bbbf1ebc8ac4.png">
+  </p> 
+  
+  <p align="center">
+  <img width="512" alt="Screen Shot 2021-02-08 at 4 04 26 PM" src="https://user-images.githubusercontent.com/75342978/107292581-535ffb00-6a27-11eb-86d5-ea3c3673ed85.png">
+  </p> 
+  
+  <p align="center">
+  <img width="439" alt="Screen Shot 2021-02-08 at 4 04 44 PM" src="https://user-images.githubusercontent.com/75342978/107292606-5e1a9000-6a27-11eb-8922-cda33eff47bb.png">
+  </p> 
+  
+  <p align="center">
+  <img width="491" alt="Screen Shot 2021-02-08 at 4 05 28 PM" src="https://user-images.githubusercontent.com/75342978/107292680-78546e00-6a27-11eb-92ca-5bb93d9d8cb6.png">
+  </p> 
+  
+  <p align="center">
+  <img width="459" alt="Screen Shot 2021-02-08 at 4 06 06 PM" src="https://user-images.githubusercontent.com/75342978/107292744-8e622e80-6a27-11eb-8369-1daf2b864ca7.png">
+  </p> 
+  
+  <p align="center">
+  <img width="471" alt="Screen Shot 2021-02-08 at 4 06 37 PM" src="https://user-images.githubusercontent.com/75342978/107292776-a174fe80-6a27-11eb-9325-5c21228759ad.png">
+  </p> 
+  
 
-_**Fig 5.** Force diagrams of the roach [1]_
 
-_**Fig 6.** “Vertical ground reaction force pattern for bipedally running American cockroaches. Cockroaches used their hind legs to propel their body. Vertical force decreased to zero showing that the cockroach had all six legs off the ground in an aerial phase. Cockroaches ran with their body elevated from the ground and their head end angled upward (angle of attack=23°)” [3]_
 
-_**Fig 8.** “Ground reaction force, velocity, displacement and energy fluctuations of the center of mass for one stride for Periplaneta americana weighing 0.81 g (0.0079 N) running at 0.92m/s. (A) vertical force recording from the force platform. The horizontal line represents the animal's weight (B) horizontal force, (C) vertical velocity, and (D) horizontal velocity calculated by integration of the force recordings, (E) vertical displacement calculated by integration of the vertical velocity, (F) vertical kinetic energy, (G) horizontal kinetic energy, (H) gravitational potential energy, (I) total mechanical energy of the center of mass obtained by summing the vertical kinetic, horizontal kinetic and gravitational potential energy recordings.” [3]_
-
-_**Fig 9.** Mechanical power used to lift and accelerate the center of mass as a function of speed is a curvilinear function of speed. Open circles represent data for Periplaneta americana [3]_
-
-_**Fig 10.** ”(A)Stride length as a function of speed for Periplaneta americana, (B) Stride frequency as a function of speed.” [3]_
 
 
 
 
 ## 6 Engineering Drawing
 
-_**Fig 11.** Initial Bio-Inspired Mechanism Drawing_
+  <p align="center">
+  <img width="519" alt="Screen Shot 2021-02-08 at 4 07 02 PM" src="https://user-images.githubusercontent.com/75342978/107292805-b05bb100-6a27-11eb-8443-3422ec2d612e.png">
+  </p> 
 
 As depicted in Fig 11, the mechanism uses a sarrus linkage, spring, and cable to alter the height of the robot cockroach. When the system is decompressed, the spring will push on the sarrus linkage. With the use of a small motor, the robot can alter its height based on the amount of cable it retracts around the spool. This will allow the robot to alter its body based on the given environment/terrain. The cockroach uses its long back legs to thrust itself forward. Our design uses a similar approach to replicate this bio-inspired motion. A motor will be used in the rear legs of the cockroach in order to alter the angle at which the robot thrusts. Once the angle is set, the solenoids attached to the motors will activate and thrust the robot cockroach forward. Based on the external terrain, the angle of the back legs will change. The middle and front legs of the cockroach will not be attached to an actuator, instead they will be used to stabilize the mechanism. In future iterations, the middle and front legs would be designed similarly to the CRAM robot [9]. This would allow the mechanism to crawl using its middle and front legs, and thrust using the rear set of legs. 
 
