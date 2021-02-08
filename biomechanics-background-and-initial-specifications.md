@@ -1,6 +1,22 @@
 >[Home](index.md)
 # Biomechanics Background and Initial Specifications
 
+**Table of Contents**
+1.   Candidate Organism	
+2.   Bio-Inspired Robots	
+3.   Technical Parameters	
+4.   Mechanical Equations	
+4-1.   Horizontal Thrust Force	
+4-2.   Peak Power	
+4-3.   Expected Energy	
+5.   Figures from Literature	
+6.   Engineering Drawing	
+7.   Discussion	
+7-1.   Rationale for Organism	
+7-2.   Motor and Power Selection	
+8.   References
+
+
 ## 1  Candidate Organism
 
   Team four designed their bio-inspired mechanism based on the biomechanics of the American Cockroach, also known as the Periplaneta Americana, shown in Fig 1. Although the critter stands 12 millimeters tall, it can compress its body enough to fit through crevices as small as 3 millimeters. Their six long and barbed legs allow them to run on inclined surfaces with speeds up to 50 body lengths per second.
