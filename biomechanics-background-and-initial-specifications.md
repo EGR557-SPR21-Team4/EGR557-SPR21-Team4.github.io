@@ -33,7 +33,7 @@ After analyzing the American Cockroach via  research papers, the team found five
 
 The following information was gathered from the most significant cockroach references. The data is later used to calculate biomechanical parameters and robot specifications. 
 
-<p align: "center"><b>Table 1:</b> <i>American Cockroach Data </i></p>
+<p align = "center"><b>Table 1:</b> <i> American Cockroach Data </i></p>
 
 |Parameter|Unit|Value Range|Reference|
 |---|---|---|---|
