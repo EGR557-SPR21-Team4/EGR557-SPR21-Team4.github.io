@@ -8,7 +8,16 @@ title: EGR557 Foldable Robotics Spring 2021
 
 ## Team Members
 
-[Team and Contact](/teamcontact.md)
+|Team Member|Email|
+|---|---|
+|Feba Raju Abraham|fabraha3@asu.edu|
+|Charlotte Deming|cdeming1@asu.edu|
+|Dru Keister|dkeister@asu.edu|
+|Andrei Marinescu|amarine3@asu.edu|
+
+**Discord**
+
+Discord is used as the primary form of contact for this group. Each team member has already responded and communicated through that service effectively. 
 
 ## Research Question
 **How can folding techniques be used to design self-collapsible robots capable of scaling tight and inclinded spaces?**
