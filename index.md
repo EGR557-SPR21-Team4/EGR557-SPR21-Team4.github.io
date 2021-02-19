@@ -29,6 +29,7 @@ Discord is used as the primary form of contact for this group. Each team member 
 
 [Develop a Research Question](develop-a-research-question.md)  
 [Biomechanics Background and Initial Specifications](biomechanics-background-and-initial-specifications.md)
+[link to Kinematics notebook](https://nbviewer.jupyter.org/url/EGR557-SPR21-Team4.github.io/Team assignment 5.ipynb)
 
 ## Results
 
