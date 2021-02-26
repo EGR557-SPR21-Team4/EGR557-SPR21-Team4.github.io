@@ -13,9 +13,9 @@ How can folding techniques be used to design self-collapsible robots capable of 
 ## Tractability
   Our team has refined the initial research question by focusing more on tightly inclined spaces.
 Although our robot design will still have the ability to pass through tight spaces, it will focus more on
-climbing and descending angled terrain. Similar to the compression traits seen in a cockroach, our design
+climbing and descending angled or vertical terrain. Similar to the compression traits seen in a razor clam, our design
 will be able to collapse its body when squeezing through compact terrains. The design will also have the
-ability to expand its body when climbing through angled spaces; allowing the robot to heighten its
+ability to expand its body when climbing through angled spaces; this allows the robot to heighten its
 traction without the use of high power motors or suction based technologies. In order to minimize cost
 and materials, the prototype will be constructed primarily from layered paper composite. Additionally,
 foldable robotic techniques will be implemented to minimize the use of bulky and expensive actuators.
@@ -23,7 +23,7 @@ Although there are similar compressible designs being researched, our prototype 
 accessibility to tight crevices that change in size.
 
 ## Novelty
-  To initialize our team's literature review, words like cockroach, crawl, compressibe, shrink, tight,
+  To initialize our team's literature review, words like razor clam, crawl, compressibe, shrink, tight,
 space, small, cracks, climbing, squish, and foldable were used to narrow down the research results.The
 four highly cited references that closely resemble our research question included:
 
@@ -103,8 +103,7 @@ traverse through these environments, it could also be used live feed in disaster
 collapses, etc, where initial responses can be slow, as these environments can be too unstable for a quick
 manual search . Also, robots that can autonomously or semi-autonomously navigate through underground
 passageways can be used for preventive analysis by preemptively scouting out and mapping an area
-whose conditions and stability may be unknownA robot that is similar to a cockroach that is proverbially
-said to be able survive a nuclear holocuast is an interesting idea.
+whose conditions and stability may be unknownA robot that is similar to a razor clam.
 
   Advances in this field is an eye-opener for further innovations. Many organisms already have
 very efficient systems. Bio-inspired robots take advantage of these systems by replicating those found in
