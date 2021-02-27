@@ -29,6 +29,9 @@ Discord is used as the primary form of contact for this group. Each team member 
 
 [Develop a Research Question](develop-a-research-question.md)  
 [Biomechanics Background and Initial Specifications](biomechanics-background-and-initial-specifications.md)
+[Kinematics](kinematics.md)
+[Dynamics I](dynamics1.md)
+[Presentation I](presentation1.md)
 
 ## Presentations
 
