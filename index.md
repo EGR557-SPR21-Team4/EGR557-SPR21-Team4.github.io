@@ -20,7 +20,7 @@ title: EGR557 Foldable Robotics Spring 2021
 Discord is used as the primary form of contact for this group. Each team member has already responded and communicated through that service effectively. 
 
 ## Research Question
-**How can folding techniques be used to design self-collapsible robots capable of scaling tight and inclined spaces?**
+**How can we mimic the motion of a razor clam to create a bio-inspired foldable robot that is capable of scaling tight and inclined spaces?**
 
 ## Background
 [Background](/background.md)
