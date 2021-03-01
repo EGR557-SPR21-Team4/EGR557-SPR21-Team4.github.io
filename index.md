@@ -37,12 +37,6 @@ Discord is used as the primary form of contact for this group. Each team member 
 
 [Presentation 1](presentation1.md)
 
-## Results
-
-1. TBD
-1. TBD
-1. TBD
-
 ## Conclusions and Future Work
 
 ## External Links
