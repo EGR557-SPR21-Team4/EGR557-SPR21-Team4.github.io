@@ -31,7 +31,6 @@ Discord is used as the primary form of contact for this group. Each team member 
 [Biomechanics Background and Initial Specifications](biomechanics-background-and-initial-specifications.md)  
 [Kinematics](System_Kinematics.ipynb_-_Colaboratory.pdf)  
 [Dynamics I](System_Dynamics.ipynb_-_Colaboratory.pdf)  
-[Presentation I](presentation1.md)  
 
 ## Presentations
 
