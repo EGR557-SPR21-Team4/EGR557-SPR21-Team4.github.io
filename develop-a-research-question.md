@@ -7,7 +7,7 @@
 How can we use foldable robotic techniques to design a compressible robot capable of navigating through tight spaces?
 
 **Refined Research Question:**  
-How can folding techniques be used to design self-collapsible robots capable of scaling tight and inclined spaces?
+How can we mimic the motion of a razor clam to create a bio-inspired foldable robot that is capable of scaling tight and inclined spaces?
 
 
 ## Tractability
