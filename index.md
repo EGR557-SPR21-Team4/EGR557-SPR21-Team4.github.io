@@ -12,7 +12,6 @@ title: EGR557 Foldable Robotics Spring 2021
 |---|---|
 |Feba Raju Abraham|fabraha3@asu.edu|
 |Charlotte Deming|cdeming1@asu.edu|
-|Dru Keister|dkeister@asu.edu|
 |Andrei Marinescu|amarine3@asu.edu|
 
 **Discord**
