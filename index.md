@@ -6,7 +6,7 @@ EGR557 Foldable Robotics (Spring 2021)
 
 ## Introduction
 
-**Razor Clam Bio-Inspired Pipe Navigating Robot
+**Razor Clam Bio-Inspired Pipe Navigating Robot**
 
 |Team Member|Email|
 |---|---|
