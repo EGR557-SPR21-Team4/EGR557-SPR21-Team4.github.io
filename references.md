@@ -1,7 +1,5 @@
 >[Home](index.md)
 
-## Bibliography
-
 ## Research Question
 [1] A. G. V Winter, R. L. H. Deits, D. S. Dorsch, A. H. Slocum, and A. E. Hosoi, “Razor clam to RoboClam: Burrowing drag reduction mechanisms and their robotic adaptation,” Bioinspiration and Biomimetics, vol. 9, no. 3, 2014, doi: 10.1088/1748-3182/9/3/036009.
 [2] J. M. Brown, M. P. Austin, B. D. Miller, and J. E. Clark, “Evidence for multiple dynamic climbing gait families,” Bioinspiration and Biomimetics, vol. 14, no. 3, 2019, doi: 10.1088/1748-3190/aae420.
