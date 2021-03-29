@@ -1,10 +1,10 @@
 ---
-title: EGR557 Foldable Robotics Spring 2021
+EGR557 Foldable Robotics (Spring 2021)
 ---
 
 # Home
 
-# Introduction
+## Introduction
 
 ## Team Members
 
@@ -41,6 +41,6 @@ How can we mimic the motion of a razor clam to create a bio-inspired foldable ro
 
 [Bibliography](references.md)
 
-# External Links
+## External Links
 
 [Our teams coding is based on the examples created by Dr. Daniel Aukes](insert aukes website)
