@@ -39,4 +39,4 @@ How can we mimic the motion of a razor clam to create a bio-inspired foldable ro
 
 ## External Links
 
-[Our teams coding is based on the examples created by Dr. Daniel Aukes.](https://egr557.github.io/)
+This project uses information from the [Foldable Robotics Course](https://egr557.github.io/) created by Dr. Daniel Aukes.
