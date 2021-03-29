@@ -6,7 +6,7 @@ EGR557 Foldable Robotics (Spring 2021)
 
 ## Introduction
 
-**Our team is researching a razor clam and creating a bio-inspired robot capable of navigating vertical and horizontal crevices to use for pipe navigation, rescue missions, and more.**
+Our team is researching a razor clam and creating a bio-inspired robot capable of navigating vertical and horizontal crevices to use for pipe navigation, rescue missions, and more.
 
 |Team Member|Email|
 |---|---|
