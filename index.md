@@ -6,6 +6,8 @@ EGR557 Foldable Robotics (Spring 2021)
 
 ## Introduction
 
+**Razor Clam Bio-Inspired Pipe Navigating Robot
+
 |Team Member|Email|
 |---|---|
 |Feba Raju Abraham|fabraha3@asu.edu|
@@ -37,4 +39,4 @@ How can we mimic the motion of a razor clam to create a bio-inspired foldable ro
 
 ## External Links
 
-[Our teams coding is based on the examples created by Dr. Daniel Aukes](insert aukes website)
+[Our teams coding is based on the examples created by Dr. Daniel Aukes](https://egr557.github.io/)
