@@ -22,24 +22,16 @@ Discord is used as the primary form of contact for this group. Each team member 
 How can we mimic the motion of a razor clam to create a bio-inspired foldable robot capable of scaling inclined spaces?
 
 ## Background
-[Background](/background.md)
-
-## Previous Assignments
-
 [Develop a Research Question](develop-a-research-question.md)  
-[Biomechanics Background and Initial Specifications](biomechanics-background-and-initial-specifications.md)  
+[Biomechanics Background and Initial Specifications](biomechanics-background-and-initial-specifications.md) 
+
+## Kinematics and Dynamics
 [System Kinematics](System_Kinematics.ipynb_-_Colaboratory.pdf)  
 [Dynamics](dynamicsTotal.pdf) 
 
-
 ## Presentations
-
 [Presentation 1](presentation1.md)  
 [Presentation 2](presentation2.md)
-
-## Conclusions and Future Work
-
-## External Links
 
 ## [References](references.md)
 
