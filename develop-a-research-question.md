@@ -154,7 +154,7 @@ account, as some folds can create stronger structures than others. There will ne
 rigidity and flexibility when finding a viable solution, two aspects that are crucial when designing a
 foldable robotic system
 
-#### [References](references.md)
+## References
 
 [1] A. G. V Winter, R. L. H. Deits, D. S. Dorsch, A. H. Slocum, and A. E. Hosoi, “Razor clam to RoboClam: Burrowing drag reduction mechanisms and their robotic adaptation,” Bioinspiration and Biomimetics, vol. 9, no. 3, 2014, doi: 10.1088/1748-3182/9/3/036009.
 
