@@ -32,7 +32,12 @@
 
 ## Dynamics
 
+[1] A. Industries, “Micro Servo - MG90D High Torque Metal Gear,” adafruit industries blog RSS. [Online]. Available: https://www.adafruit.com/product/1143. [Accessed: 08-Mar-2021].
 
+[2] “The Online Materials Information Resource,” MatWeb, 1996. [Online]. Available: http://www.matweb.com/search/datasheet.aspx?matguid=af58cf14010141b1a1cd94def4826389&ckck=1. [Accessed: 08-Mar-2021].
 
+[3] “Spring Rate Calculator,” The Spring Store. [Online]. Available: https://www.thespringstore.com/spring-rate-calculator.html. [Accessed: 08-Mar-2021]. 
 
+[4] “Basic Tracker Tutorial”, Daniel Aukes, Foldable Robotics [Online]. Available: https://egr557.github.io/modules/validation/Tracker%20tutorial.html [Accessed: 07- Mar-2021]
 
+[5] “Approximating compliant beams with the pseudo-rigid body model[Online]. Available:https://egr557.github.io/modules/compliance/generated/prbm.html[Accessed: 08- Mar-2021]
