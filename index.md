@@ -6,17 +6,11 @@ EGR557 Foldable Robotics (Spring 2021)
 
 ## Introduction
 
-## Team Members
-
 |Team Member|Email|
 |---|---|
 |Feba Raju Abraham|fabraha3@asu.edu|
 |Charlotte Deming|cdeming1@asu.edu|
 |Andrei Marinescu|amarine3@asu.edu|
-
-**Discord**
-
-Discord is used as the primary form of contact for this group. Each team member has already responded and communicated through that service effectively. 
 
 ## Research Question
 
