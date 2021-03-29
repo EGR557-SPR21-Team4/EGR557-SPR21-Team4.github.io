@@ -28,12 +28,14 @@ Discord is used as the primary form of contact for this group. Each team member 
 
 [Develop a Research Question](develop-a-research-question.md)  
 [Biomechanics Background and Initial Specifications](biomechanics-background-and-initial-specifications.md)  
-[Kinematics](System_Kinematics.ipynb_-_Colaboratory.pdf)  
-[Dynamics I](System_Dynamics.ipynb_-_Colaboratory.pdf)  
+[System Kinematics](System_Kinematics.ipynb_-_Colaboratory.pdf)  
+[Dynamics](System_Dynamics.ipynb_-_Colaboratory.pdf) 
+
 
 ## Presentations
 
-[Presentation 1](presentation1.md)
+[Presentation 1](presentation1.md)  
+[Presentation 2](presentation2.md)
 
 ## Conclusions and Future Work
 
