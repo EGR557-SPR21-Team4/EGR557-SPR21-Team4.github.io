@@ -1,5 +1,5 @@
 ---
-title: EGR557 Foldable Robotics Spring 2021
+title: EGR557: Foldable Robotics Spring 2021
 ---
 
 # Home
