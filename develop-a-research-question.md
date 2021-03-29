@@ -9,6 +9,7 @@ How can we use foldable robotic techniques to design a compressible robot capabl
 How can we mimic the motion of a razor clam to create a bio-inspired foldable robot capable of scaling inclined spaces?
 
 ## Tractability
+
   Our team has refined the initial research question by focusing more on scaling inclined spaces. Although our robot design will still have the ability to pass through tight spaces, it will focus more on climbing and descending angled terrain. Our team plans to prototype large and eventually transfer our mechanism to a much smaller size. Similar to the motion of a razor clam, our design will use an anchor to wedge itself between the walls of a crevice and pull/push its body into and away from this anchor point. The design will be able to translate up and down steep angled crevices without the use of high power suction based technologies. In order to minimize cost and materials, the prototype will be constructed primarily from cardstock material. Additionally, foldable robotic techniques will be implemented to minimize the use of bulky and expensive actuators. Although climbing robots are constantly being researched, they are usually expensive, high powered, and bulky. The aim of our prototype is to expand robot accessibility to inclined spaces while maintaining a low-cost and low-power design. 
 
 ## Novelty
