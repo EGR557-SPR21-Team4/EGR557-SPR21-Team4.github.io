@@ -40,4 +40,4 @@
 
 [4] “Basic Tracker Tutorial”, Daniel Aukes, Foldable Robotics [Online]. Available: https://egr557.github.io/modules/validation/Tracker%20tutorial.html [Accessed: 07- Mar-2021]
 
-[5] “Approximating compliant beams with the pseudo-rigid body model[Online]. Available:https://egr557.github.io/modules/compliance/generated/prbm.html[Accessed: 08- Mar-2021]
+[5] “Approximating compliant beams with the pseudo-rigid body model[Online]. Available:https://egr557.github.io/modules/compliance/generated/prbm.html [Accessed: 08- Mar-2021]
