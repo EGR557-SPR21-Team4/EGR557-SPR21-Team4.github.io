@@ -21,7 +21,7 @@ How can we mimic the motion of a razor clam to create a bio-inspired foldable ro
 
 ## Kinematics and Dynamics
 
-[System Kinematics](System_Kinematics.ipynb)  
+[System Kinematics](https://nbviewer.jupyter.org/url/EGR557-SPR21-Team4.github.io/System_Kinematics.ipynb)  
 [Dynamics](dynamicsTotal.pdf) 
 
 ## Presentations
