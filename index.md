@@ -8,11 +8,13 @@ Our team is researching a razor clam and creating a bio-inspired robot capable o
 
 **How the Razor Clam Digs:** first the clam extends its "foot" downwards, then it pushes up its shell, before closing its shell suddenly (4th picture from left) which inflates its foot, thus helping its foot to act as an ‘anchor’ for the next stage of pulling its shell downwards. It then opens its shell again (far right picture), thus being ‘reset’ to repeat the digging cycle.
 
-|Team Member|Email|
-|---|---|
-|Feba Raju Abraham|fabraha3@asu.edu|
-|Charlotte Deming|cdeming1@asu.edu|
-|Andrei Marinescu|amarine3@asu.edu|
+## Team Background
+
+|Team Member|Email|Field of Study|
+|---|---|---|
+|Feba Raju Abraham|fabraha3@asu.edu|Robotic Engineering|
+|Charlotte Deming|cdeming1@asu.edu|Robotic Engineering|
+|Andrei Marinescu|amarine3@asu.edu|Robotic Engineering|
 
 ## Research Question
 
