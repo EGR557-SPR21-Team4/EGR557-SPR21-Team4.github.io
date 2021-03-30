@@ -4,7 +4,7 @@
 
 ![image](https://dl0.creation.com/articles/p124/c12446/razor-clam-digs.jpg)
 
-**How the Razor Clam Digs:** First it extends its foot downwards, then it pushes up its shell,before closing its shell suddenly (4th pic) which inflates its foot, thus helping its foot to act as an ‘anchor’ for the next stage of pulling its shell downwards. It then opens its shell again (far right), thus being ‘reset’ to repeat the digging cycle.
+**How the Razor Clam Digs:** first the clam extends its "foot" downwards, then it pushes up its shell, before closing its shell suddenly (4th picture from left) which inflates its foot, thus helping its foot to act as an ‘anchor’ for the next stage of pulling its shell downwards. It then opens its shell again (far right picture), thus being ‘reset’ to repeat the digging cycle.
 
 ## Introduction
 
