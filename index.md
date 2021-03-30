@@ -1,6 +1,6 @@
 # Home
 
-![image](https://www.seattlemag.com/sites/default/files/field/image/0315cooksadventuresrecipe.jpg)
+![image](https://dl0.creation.com/articles/p124/c12446/razor-clam-digs.jpg)
 
 ## Introduction
 
