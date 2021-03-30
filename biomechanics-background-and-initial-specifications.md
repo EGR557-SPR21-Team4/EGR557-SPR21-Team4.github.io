@@ -112,27 +112,24 @@ For motor efficiency the equation is power output over power input multiplied by
 
 
 
-[References](references.md)
+## References
 
-*[1]	
+[1] A. G. Winter and A. E. Hosoi, “Identification and evaluation of the atlantic razor clam (Ensis directus) for biologically inspired subsea burrowing systems,” in Integrative and Comparative Biology, 2011, vol. 51, no. 1, doi: 10.1093/icb/icr038.
 
-*[2] 	
+[2] Fraser, S., Shelmerdine, R.L., and Mouat, B, “Razor clam biology, ecology, stock assessment, and exploitation: a review of Ensis spp. in Wales,” in NAFC Marine Centre, 2018.
 
-*[3] 	
- [4] 	
+[3] S. Huang and J. Tao, “Modeling of the Burrowing Mechanism by Razor Clam: Role of Penetration Kinematics,” 2018, doi: 10.1061/9780784481585.053.
 
-[5]	 
+[4] S. Huang and J. Tao, “Modeling Clam-inspired Burrowing in Dry Sand using Cavity Expansion Theory and DEM,” Acta Geotech., vol. 15, no. 8, 2020, doi: 10.1007/s11440-020-00918-8.
 
-*[6] S. Huang, "Self-Burrowing Mechanism and Robot Inspired by Razor Clams," ProQuest Dissertations Publishing, Tempe, 2020.	
+[5] A. G. Winter, R. L. H. Deits, and A. E. Hosoi, “Localized fluidization burrowing mechanics of Ensis directus,” J. Exp. Biol., vol. 215, no. 12, 2012, doi: 10.1242/jeb.058172.
 
-*[7] 	https://www.google.com/url?q=https://iopscience-iop-org.ezproxy1.lib.asu.edu/article/10.1088/1748-3190/ab8754/pdf&sa=D&source=editors&ust=1616997857243000&usg=AOvVaw1G8c1kk5Hh0k4j8HWz8zAD
+[6] J. J. Tao, S. Huang, and Y. Tang, “SBOR: a minimalistic soft self-burrowing-out robot inspired by razor clams,” Bioinspiration and Biomimetics, vol. 15, no. 5, 2020, doi: 10.1088/1748-3190/ab8754.
 
-*[8] 	https://dspace.mit.edu/bitstream/handle/1721.1/98251/Dan%20IDETC%20Paper%20Final%20Post%20Reviews.pdf?sequence=1&isAllowed=y
+[7] Y. Jiang, D. Chen, H. Zhang, F. Giraud, and J. Paik, “Multimodal pipe-climbing robot with origami clutches and soft modular legs,” Bioinspiration and Biomimetics, vol. 15, no. 2, 2020, doi: 10.1088/1748-3190/ab5928.
 
-[9] 	
+[8] A. G. V Winter, R. L. H. Deits, D. S. Dorsch, A. H. Slocum, and A. E. Hosoi, “Razor clam to RoboClam: Burrowing drag reduction mechanisms and their robotic adaptation,” Bioinspiration and Biomimetics, vol. 9, no. 3, 2014, doi: 10.1088/1748-3182/9/3/036009.
 
-[10] 	
+[9] D. S. Dorsch and A. G. V. Winter, “Design of a low energy, self contained subsea burrowing robot based on localized fluidization exhibited by atlantic razor clams,” in Proceedings of the ASME Design Engineering Technical Conference, 2014, vol. 5A, doi: 10.1115/DETC2014-34953.
 
-[11]	
-
-[12]	
+[10] K. N. Nordstrom, D. S. Dorsch, W. Losert, and A. G. Winter, “Microstructural view of burrowing with a bioinspired digging robot,” Phys. Rev. E - Stat. Nonlinear, Soft Matter Phys., vol. 92, no. 4, 2015, doi: 10.1103/PhysRevE.92.042204.
