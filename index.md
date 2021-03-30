@@ -1,14 +1,12 @@
 # Home
 
-## The Razor Clam
+## Introduction
+
+Our team is researching a razor clam and creating a bio-inspired robot capable of navigating vertical and horizontal crevices to use for pipe navigation, rescue missions, and more.
 
 ![image](https://dl0.creation.com/articles/p124/c12446/razor-clam-digs.jpg)
 
 **How the Razor Clam Digs:** first the clam extends its "foot" downwards, then it pushes up its shell, before closing its shell suddenly (4th picture from left) which inflates its foot, thus helping its foot to act as an ‘anchor’ for the next stage of pulling its shell downwards. It then opens its shell again (far right picture), thus being ‘reset’ to repeat the digging cycle.
-
-## Introduction
-
-Our team is researching a razor clam and creating a bio-inspired robot capable of navigating vertical and horizontal crevices to use for pipe navigation, rescue missions, and more.
 
 |Team Member|Email|
 |---|---|
