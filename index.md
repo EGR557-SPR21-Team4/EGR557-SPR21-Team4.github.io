@@ -1,5 +1,7 @@
 # Home
 
+![image](https://www.seattlemag.com/sites/default/files/field/image/0315cooksadventuresrecipe.jpg)
+
 ## Introduction
 
 Our team is researching a razor clam and creating a bio-inspired robot capable of navigating vertical and horizontal crevices to use for pipe navigation, rescue missions, and more.
