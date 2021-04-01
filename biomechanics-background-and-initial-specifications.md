@@ -36,23 +36,19 @@ The following information was gathered from the most significant Razor Clam refe
 
 <p align = "center"> <b> Table 1: </b> <i> Razor Clam Data </i></p>
 
-|Parameter|Unit|Value Range|Reference|
+|Parameter|Unit|Value|Reference|
 |---|---|---|---|
-|Mass|mg|0.76 +/- 0.16|[1]|
-|Body Length|mm|31.9 +/- 2.75|[1]|
-|Height|mm|9-12|[1]|
-|Speed|m/s|0.44 - 1.5 m/s (50 bl/s)|[3]|
-|velocity|Cm s^-1|58.05 +/- 2.3|[1]|
-|Stride Length|mm|20 - 60|[3]|
-|Leg radius|mm|0.410 +/- 0.05|[2]|
-|Leg Thickness|mm|0.063 +/- 0.02|[2]|
-|Minimum height traversed|mm|3 - 4|[1]|
-|Dist. from foot to body midline|mm|11.89 +/- 0.96|[1]|
-|Est max force per leg (based on proposed surface friction setup in [1])|mN|~38.0|[1]|
-|Est max forward thrust (based on proposed surface friction setup in [1])|mN|227.9|[1]|
-|Est body drag (based on proposed surface friction setup in [1])|mN|24.71-224.80|[1]|
-|Mean Energy Recovery|%|6.7 +/- 0.88|[3]|
-|Peak vertical ground reaction force|mN|~ 1.14 - 1.44|[3]|
+|Body Length|cm|18  12.5-20|[1]  [2]|
+|Shell Expansion|cm|0.85|[3]|
+|Velocity Downward|cm/s|1|[1]|
+|Stride Length Upward (in sediment)|mm|30.4  4.5-46.7|[5]|
+|Stride Length Downward|mm|5|[5]|
+|Stride Length (Swimming E. magnus)|m|3-5|[2]|
+|Energy of one Burrowing Cycle|J/cm|0.21|[1]|
+|Peak Vertical Ground Reaction Force|N|10|[3]|
+|Peak Pressure on Organism|kPa|10|[3]|
+|Burrowing Depth|cm|70|[1]|
+
 
 ## 4 Mechanical Equations
 
