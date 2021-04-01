@@ -38,10 +38,10 @@ The following information was gathered from the most significant Razor Clam refe
 
 |Parameter|Unit|Value|Reference|
 |---|---|---|---|
-|Body Length|cm|18  12.5-20|[1]  [2]|
+|Body Length|cm|18;  12.5-20|[1]  [2]|
 |Shell Expansion|cm|0.85|[3]|
 |Velocity Downward|cm/s|1|[1]|
-|Stride Length Upward (in sediment)|mm|30.4  4.5-46.7|[5]|
+|Stride Length Upward (in sediment)|mm|30.4;  4.5-46.7|[5]|
 |Stride Length Downward|mm|5|[5]|
 |Stride Length (Swimming E. magnus)|m|3-5|[2]|
 |Energy of one Burrowing Cycle|J/cm|0.21|[1]|
