@@ -70,7 +70,7 @@ We will calculate the kinetic energy of a clam using basic kinetic formulas. The
 ## 5 Figures From Literature
 
   
-  
+ 
 <p align="center"> 
   <img width="375" alt="Screen Shot 2021-04-05 at 10 27 49 PM" src="https://user-images.githubusercontent.com/75342978/113663051-295d3a80-965e-11eb-8dfa-6c4cb1c0cc95.png">  
 </p> 
@@ -80,24 +80,25 @@ We will calculate the kinetic energy of a clam using basic kinetic formulas. The
 </p> 
 
 <p align="center"> 
- <img width="484" alt="Screen Shot 2021-04-05 at 10 34 40 PM" src="https://user-images.githubusercontent.com/75342978/113663568-1dbe4380-965f-11eb-8a23-f2dd02cdf66d.png"> 
+<img width="485" alt="Screen Shot 2021-04-06 at 10 56 46 AM" src="https://user-images.githubusercontent.com/75342978/113756878-c8b61800-96c6-11eb-8e8d-10d2367982fb.png">
 </p> 
 
 <p align="center"> 
-  
+<img width="472" alt="Screen Shot 2021-04-06 at 10 36 46 AM" src="https://user-images.githubusercontent.com/75342978/113754361-fea5cd00-96c3-11eb-98db-7694a41458ff.png">
 </p> 
 
 <p align="center"> 
-  
+<img width="515" alt="Screen Shot 2021-04-06 at 11 00 58 AM" src="https://user-images.githubusercontent.com/75342978/113757366-5f82d480-96c7-11eb-9f93-53d73007653f.png">
 </p> 
 
 <p align="center"> 
-  
+  <img width="515" alt="Screen Shot 2021-04-06 at 10 50 59 AM" src="https://user-images.githubusercontent.com/75342978/113756201-fb134580-96c5-11eb-8b96-8a39ad523d9d.png">
 </p> 
 
 <p align="center"> 
-  
+  <img width="530" alt="Screen Shot 2021-04-06 at 10 55 11 AM" src="https://user-images.githubusercontent.com/75342978/113756696-90aed500-96c6-11eb-9358-039d75081f54.png">
 </p> 
+
 
 ## 6 Engineering Drawing
 
