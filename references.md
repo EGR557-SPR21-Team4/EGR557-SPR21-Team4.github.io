@@ -10,9 +10,9 @@
 [4] D. Qiaoling, L. Yan, and L. Sinan, “Design of a micro pole-climbing robot,” Int. J. Adv. Robot. Syst., vol. 16, no. 3, 2019, doi: 10.1177/1729881419852813.
 
 ## Biomechanics Background and Initial Specifications
-[1] A. G. Winter and A. E. Hosoi, “Identification and evaluation of the atlantic razor clam (Ensis directus) for biologically inspired subsea burrowing systems,” in Integrative and Comparative Biology, 2011, vol. 51, no. 1, doi: 10.1093/icb/icr038.
+[1] Fraser, S., Shelmerdine, R.L., and Mouat, B, “Razor clam biology, ecology, stock assessment, and exploitation: a review of Ensis spp. in Wales,” in NAFC Marine Centre, 2018.
 
-[2] Fraser, S., Shelmerdine, R.L., and Mouat, B, “Razor clam biology, ecology, stock assessment, and exploitation: a review of Ensis spp. in Wales,” in NAFC Marine Centre, 2018.
+[2] A. G. Winter and A. E. Hosoi, “Identification and evaluation of the atlantic razor clam (Ensis directus) for biologically inspired subsea burrowing systems,” in Integrative and Comparative Biology, 2011, vol. 51, no. 1, doi: 10.1093/icb/icr038.
 
 [3] S. Huang and J. Tao, “Modeling of the Burrowing Mechanism by Razor Clam: Role of Penetration Kinematics,” 2018, doi: 10.1061/9780784481585.053.
 
