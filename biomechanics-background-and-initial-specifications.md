@@ -7,14 +7,14 @@
   Team four designed their bio-inspired mechanism based on the biomechanics of the Razor Clam, such as the Ensis Magnus, shown in Fig 1. Although this creature's small size limits its digging abilities to a few centimeters, it is very efficient given the mode of locomotion uses only its foot and shell.
   
   <p align="center"> 
-  <img width="238" alt="Screen Shot 2021-03-28 at 10 45 57 PM" src="https://user-images.githubusercontent.com/75342978/112791951-5df64400-9017-11eb-8ef3-635806426484.png">
+  <img width="472" alt="Screen Shot 2021-04-05 at 10 20 43 PM" src="https://user-images.githubusercontent.com/75342978/113662558-2b72c980-965d-11eb-856e-5e1ffd8b6fbc.png">
   </p> 
   
- Our team was able to filter through multiple sources of information in order to gain more background knowledge on the Razor Clam. The team found a total of five supplemental research papers [1-5] and narrowed them down to the three most beneficial [1, 2, 3]. Through these papers, the team was able to acquire physical and quantitative specifications of the clam. These details will be further discussed in the section below. 
+ Our team was able to filter through multiple sources of information in order to gain more background knowledge on the Razor Clam. The team found a total of five supplemental research papers [1-5] and narrowed them down to the three most beneficial [1, 2, 3]. Through these papers, the team was able to acquire physical and quantitative specifications of the clam. These details will be further discussed in the section below.  
   
-  This paper focuses on the Atlantic Razor Clam (Ensis directus) as a means of reference for developing new burrowing technology. Many different types of burrowing and anchoring organisms were studied during this research, but bivalves such as the razor clams stood out as actively reducing the energy required for burrowing. The movement of the Ensis directus is initiated by the foot, which reaches down into the sediment, after which the valves move upward and compress, pushing the blood into the end of the foot, which causes it to expand, acting as an anchor to which it can pull the rest of the body down. The energy used during each step of the burrowing process of the Atlantic Razor Clam which averages at about 18 cm in length, was calculated and yielded a total of 0.21 J/cm for one set of burrowing motions. A comparison was made pointing out that 0.21 J/cm would allow for the clam to (theoretically) “travel over half a kilometer on the energy in a AA battery.” They can burrow at about 1cm/s, to depths of about up to 70cm. The paper then goes into some comparisons of Ensis directus to existing technologies, which show that the organism is ultimately more efficient when looking at the force given the mass of the system/organism [1]. 
-  
- The second paper, while focusing on razor clams in Wales, goes into detail regarding the Ensis family, describing the differences between them and other razor clam species as well as the differences in subspecies within the family. Ensis razor clams are differentiated from other types of razor clams by their “hinge teeth.” Ensis spp have two teeth on their left valve, which fits a tooth that is on the right valve. Ensis spp are also described as having delicate, smooth, long shells whose interior is white, while the exterior is a combination of vague red- and purple-brown markings with a thin green skin-like coating. Generally, Ensis species reside in areas where the sediment is at least 30 cm deep with relatively high levels of tidal movement. Specific Ensis species tend to have a unique set of tolerances of environments in which they can live, variables ranging from temperature to sediment grain size. This paper focuses on the three most common Ensis species most fished in Welsh waters. These species range from 125 - 200 mm in length and can be found from the shore to waters over 40 meters deep. It was found that they use their foot to bury themselves vertically over 1 meter into the ground. Some species have also been seen using their foot as a paddle and siphoning water out to move 3 - 5 meters per burst. The paper then goes on to discuss other topics that are not pertinent to the teams research, such as information regarding predictive distribution and some of the harvesting methods in place[2].
+ The first paper, while focusing on razor clams in Wales, goes into detail regarding the Ensis family, describing the differences between them and other razor clam species as well as the differences in subspecies within the family. Ensis razor clams are differentiated from other types of razor clams by their “hinge teeth.” Ensis spp have two teeth on their left valve, which fits a tooth that is on the right valve. Ensis spp are also described as having delicate, smooth, long shells whose interior is white, while the exterior is a combination of vague red- and purple-brown markings with a thin green skin-like coating. Generally, Ensis species reside in areas where the sediment is at least 30 cm deep with relatively high levels of tidal movement. Specific Ensis species tend to have a unique set of tolerances of environments in which they can live, variables ranging from temperature to sediment grain size. This paper focuses on the three most common Ensis species most fished in Welsh waters. These species range from 125 - 200 mm in length and can be found from the shore to waters over 40 meters deep. It was found that they use their foot to bury themselves vertically over 1 meter into the ground. Some species have also been seen using their foot as a paddle and siphoning water out to move 3 - 5 meters per burst. The paper then goes on to discuss other topics that are not pertinent to the teams research, such as information regarding predictive distribution and some of the harvesting methods in place[1].
+ 
+ The second paper focuses on the Atlantic Razor Clam (Ensis directus) as a means of reference for developing new burrowing technology. Many different types of burrowing and anchoring organisms were studied during this research, but bivalves such as the razor clams stood out as actively reducing the energy required for burrowing. The movement of the Ensis directus is initiated by the foot, which reaches down into the sediment, after which the valves move upward and compress, pushing the blood into the end of the foot, which causes it to expand, acting as an anchor to which it can pull the rest of the body down. The energy used during each step of the burrowing process of the Atlantic Razor Clam which averages at about 18 cm in length, was calculated and yielded a total of 0.21 J/cm for one set of burrowing motions. A comparison was made pointing out that 0.21 J/cm would allow for the clam to (theoretically) “travel over half a kilometer on the energy in a AA battery.” They can burrow at about 1cm/s, to depths of about up to 70cm. The paper then goes into some comparisons of Ensis directus to existing technologies, which show that the organism is ultimately more efficient when looking at the force given the mass of the system/organism [2]. 
   
   The third paper uses discrete element method modeling to study the penetration kinematics of the Atlantic razor clam (Ensis directus), specifically the effects of the shell expanding on the surrounding environment. Similar to other research on razor clams, this paper starts by describing the steps the clam uses to burrow into the ground, with a maximum tension force of 10N when dragging the body down towards the end of the foot. It is pointed out that in order to pull itself through the sediment, the organism needs to be able to fluidize the surrounding material. Using varying expansion ratios and rates, general forces were able to be calculated. While burrowing, the maximum pressure on the body recorded was about 10kPa, and with a shell expansion of about 0.85 centimeters. This is said to be “equivalent to a lateral resting force of approximate 76 N” [3].
 
@@ -38,29 +38,30 @@ The following information was gathered from the most significant Razor Clam refe
 
 |Parameter|Unit|Value|Reference|
 |---|---|---|---|
-|Body Length|cm|18;  12.5-20|[1]  [2]|
+|Body Length|cm|18;  12.5-20|[2]  [1]|
 |Shell Expansion|cm|0.85|[3]|
-|Velocity Downward|cm/s|1|[1]|
+|Velocity Downward|cm/s|1|[2]|
 |Stride Length Upward (in sediment)|mm|30.4;  4.5-46.7|[5]|
 |Stride Length Downward|mm|5|[5]|
-|Stride Length (Swimming E. magnus)|m|3-5|[2]|
-|Energy of one Burrowing Cycle|J/cm|0.21|[1]|
+|Stride Length (Swimming E. magnus)|m|3-5|[1]|
+|Energy of one Burrowing Cycle|J/cm|0.21|[2]|
 |Peak Vertical Ground Reaction Force|N|10|[3]|
 |Peak Pressure on Organism|kPa|10|[3]|
-|Burrowing Depth|cm|70|[1]|
+|Burrowing Depth|cm|70|[2]|
 
 
 ## 4 Mechanical Equations
 
 The team decided to make a few assumptions before calculating the values below. The normal force from the ground is undamped, thus, the force the clam pushes into the ground will be met by an equal opposing force. Additionally, gravity is a constant 9.81m/sec2. The team will use 40mm for slide length calculations and a 0.2 coefficient of friction will be used.
 
-## 4.1 Horizontal Thrust Force
+## 4.1 Vertical Thrust Force
 
 We will calculate the force in the forward x direction given [12]. This will be equal to the sum of forces in the x direction. In this case:  Fx = FThrust - FFriction - FDrag. Ft(given: 227.9mN) - Ff(µ*m*g) - Fd(given: 30mN) = 227.9mN-.2*.76*9.81-30nM = 182.99mN. As a result, the total force needed to thrust forward is 183mN. 
 
 ## 4.2 Peak Power
 
-We will calculate the total amount of power required per mass density of clams. In this case: Power = Force * Velocity; P = 182.99mN (above equations) * .5805m/s = 106.23mw. When we divide this by the mass density of the cockroach we are left with the power per mass density which equates to 139.77 mw/g.
+We will calculate the total amount of power required per mass density of clams. In this case: Power = Force * Velocity; P = 182.99mN (above equations) * .5805m/s = 106.23mw. When we divide this by the mass density of the cockroach we are left with the power per mass density which equates to 139.77 mw/g.![Uploading Screen Shot 2021-04-05 at 10.27.00 PM.png…]()
+
 
 ## 4.3 Expected Energy
 
@@ -70,14 +71,33 @@ We will calculate the kinetic energy of a clam using basic kinetic formulas. The
 
   
   
+<p align="center"> 
+  <img width="375" alt="Screen Shot 2021-04-05 at 10 27 49 PM" src="https://user-images.githubusercontent.com/75342978/113663051-295d3a80-965e-11eb-8dfa-6c4cb1c0cc95.png">  
+</p> 
 
+<p align="center"> 
+ <img width="537" alt="Screen Shot 2021-04-05 at 10 31 59 PM" src="https://user-images.githubusercontent.com/75342978/113663359-bdc79d00-965e-11eb-957f-01befabcb977.png">
+</p> 
+
+<p align="center"> 
+ <img width="484" alt="Screen Shot 2021-04-05 at 10 34 40 PM" src="https://user-images.githubusercontent.com/75342978/113663568-1dbe4380-965f-11eb-8a23-f2dd02cdf66d.png"> 
+</p> 
+
+<p align="center"> 
   
+</p> 
 
+<p align="center"> 
+  
+</p> 
 
+<p align="center"> 
+  
+</p> 
 
-
-
-
+<p align="center"> 
+  
+</p> 
 
 ## 6 Engineering Drawing
 
@@ -109,9 +129,9 @@ For motor efficiency the equation is power output over power input multiplied by
 
 ## References
 
-[1] A. G. Winter and A. E. Hosoi, “Identification and evaluation of the atlantic razor clam (Ensis directus) for biologically inspired subsea burrowing systems,” in Integrative and Comparative Biology, 2011, vol. 51, no. 1, doi: 10.1093/icb/icr038.
+[1] Fraser, S., Shelmerdine, R.L., and Mouat, B, “Razor clam biology, ecology, stock assessment, and exploitation: a review of Ensis spp. in Wales,” in NAFC Marine Centre, 2018.
 
-[2] Fraser, S., Shelmerdine, R.L., and Mouat, B, “Razor clam biology, ecology, stock assessment, and exploitation: a review of Ensis spp. in Wales,” in NAFC Marine Centre, 2018.
+[2] A. G. Winter and A. E. Hosoi, “Identification and evaluation of the atlantic razor clam (Ensis directus) for biologically inspired subsea burrowing systems,” in Integrative and Comparative Biology, 2011, vol. 51, no. 1, doi: 10.1093/icb/icr038.
 
 [3] S. Huang and J. Tao, “Modeling of the Burrowing Mechanism by Razor Clam: Role of Penetration Kinematics,” 2018, doi: 10.1061/9780784481585.053.
 
