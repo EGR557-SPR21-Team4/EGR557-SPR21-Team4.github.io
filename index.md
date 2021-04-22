@@ -32,7 +32,7 @@ How can we mimic the motion of a razor clam to create a bio-inspired foldable ro
 
 ## Data Collection and Experimental Validation
 
-[Design Optimization]()
+[Design Optimization]()  
 [Design Validation]()
 
 ## Manufacturing Planning
@@ -41,9 +41,9 @@ How can we mimic the motion of a razor clam to create a bio-inspired foldable ro
 
 ## Additional Resources
 
-[Data Files]()
-[Videos/Images]()
-[CAD and Design Files]()
+[Data Files]()  
+[Videos/Images]()  
+[CAD and Design Files]()  
 [Code Files]()
 
 ## Presentations
