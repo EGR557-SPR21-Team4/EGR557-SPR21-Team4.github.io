@@ -37,7 +37,7 @@ How can we mimic the motion of a razor clam to create a bio-inspired foldable ro
 
 ## Manufacturing Planning
 
-[Design and Manufacturing Workflow (Jupyter Compatable)](https://nbviewer.jupyter.org/url/EGR557-SPR21-Team4.github.io/Design and Manufacturing Workflow.ipynb)
+[Design and Manufacturing Workflow](https://nbviewer.jupyter.org/url/EGR557-SPR21-Team4.github.io/Design and Manufacturing Workflow.ipynb)
 
 ## Additional Resources
 
