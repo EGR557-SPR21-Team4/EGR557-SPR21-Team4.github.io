@@ -38,7 +38,7 @@ How can we mimic the motion of a razor clam to create a bio-inspired foldable ro
 ## Manufacturing Planning
 
 [Design and Manufacturing Workflow](Design_and_Manufacturing_Workflow.ipynb)  
-**Note:** this code is not compatible with Google Colab; you will need to run the .ipynb file in Jupyter Notebook.
+###Note: this code is not compatible with Google Colab; you will need to run the .ipynb file in Jupyter Notebook.
 
 ## Additional Resources
 
