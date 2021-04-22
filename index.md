@@ -32,9 +32,9 @@ How can we mimic the motion of a razor clam to create a bio-inspired foldable ro
 
 ## Presentations
 
-[Presentation I](presentationI.md)  
-[Presentation II](presentationII.md)
-[Presentation III](presentationIII.md)
+[Presentation I](presentation1.md)  
+[Presentation II](presentation2.md)
+[Presentation III](presentation3.md)
 
 ## References
 
