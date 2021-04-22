@@ -30,6 +30,22 @@ How can we mimic the motion of a razor clam to create a bio-inspired foldable ro
 [System Kinematics](https://nbviewer.jupyter.org/url/EGR557-SPR21-Team4.github.io/System_Kinematics.ipynb)  
 [Dynamics](https://nbviewer.jupyter.org/url/EGR557-SPR21-Team4.github.io/System_Dynamics.ipynb)
 
+## Data Collection and Experimental Validation
+
+[Design Optimization]()
+[Design Validation]()
+
+## Manufacturing Planning
+
+[Design and Manufacturing Workflow]()
+
+## Additional Resources
+
+[Data Files]()
+[Videos/Images]()
+[CAD and Design Files]()
+[Code Files]()
+
 ## Presentations
 
 [Presentation I](presentation1.md)  
