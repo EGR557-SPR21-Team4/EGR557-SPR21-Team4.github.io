@@ -38,7 +38,7 @@ How can we mimic the motion of a razor clam to create a bio-inspired foldable ro
 ## Manufacturing Planning
 
 [Design and Manufacturing Workflow](Design_and_Manufacturing_Workflow.ipynb)  
-Note: this file is only compatible with Jupyter Notebook.
+Note: this file is only compatible with Jupyter Notebook. Click [here](Design_and_Manufacturing_Workflow_pdf.pdf) for .pdf version.
 
 ## Additional Resources
 
