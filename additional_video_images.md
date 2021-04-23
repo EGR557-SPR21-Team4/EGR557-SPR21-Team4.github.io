@@ -42,5 +42,5 @@ Additional Images:
  </p> 
  
  <p align="center"> 
- <img width="472" alt="Test Setup" src="https://user-images.githubusercontent.com/74432571/115808563-8b78a800-a39f-11eb-8a97-6541b91b9f22.JPG">
+ <img width="600" alt="Test Setup" src="https://user-images.githubusercontent.com/74432571/115808563-8b78a800-a39f-11eb-8a97-6541b91b9f22.JPG">
  </p> 
