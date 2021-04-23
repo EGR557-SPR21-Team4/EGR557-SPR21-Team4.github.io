@@ -32,7 +32,7 @@ How can we mimic the motion of a razor clam to create a bio-inspired foldable ro
 
 ## Data Collection and Experimental Validation
 
-[Design Optimization]()  
+[Design Optimization](https://nbviewer.jupyter.org/url/EGR557-SPR21-Team4.github.io/Design_Optimization.ipynb)  
 [Design Validation](https://nbviewer.jupyter.org/url/EGR557-SPR21-Team4.github.io/Data_Collection_and_Experimental_Validation.ipynb)
 
 ## Manufacturing Planning
