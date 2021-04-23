@@ -43,7 +43,7 @@ Note: this file is only viewable through Jupyter Notebook. Click [here](Design_a
 ## Additional Resources
 
 [Data Files]()  
-[Videos/Images]()  
+[Videos/Images](additional_video_images.md)  
 [CAD and Design Files]()  
 [Code Files]()
 
