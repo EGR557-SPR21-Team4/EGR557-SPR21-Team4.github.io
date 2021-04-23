@@ -42,10 +42,10 @@ Note: this file is only viewable through Jupyter Notebook. Click [here](Design_a
 
 ## Additional Resources
 
-[Data Files]()  
+[Data Files](Data.zip)  
 [Videos/Images](additional_video_images.md)  
 [CAD and Design Files](CAD_and_Design_Files.zip)  
-[Code Files]()
+[Code Files](Code.zip)
 
 ## Presentations
 
