@@ -60,7 +60,7 @@ The following information was gathered from the most significant Razor Clam refe
 
 ## 4.2 Peak Power
 
-  We will calculate the total amount of power required per mass density of clams. In this case: Power = Force * Velocity; P = 182.99mN (above equations) * .5805m/s = 106.23mw. When we divide this by the mass density of the cockroach we are left with the power per mass density which equates to 139.77 mw/g.![Uploading Screen Shot 2021-04-05 at 10.27.00 PM.png…]()
+  We will calculate the total amount of power required per mass density of clams. In this case: Power = Force * Velocity; P = 182.99mN (above equations) * .5805m/s = 106.23mw. When we divide this by the mass density of the cockroach we are left with the power per mass density which equates to 139.77 mw/g.
 
 
 ## 4.3 Expected Energy
