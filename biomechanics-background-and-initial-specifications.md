@@ -52,15 +52,15 @@ The following information was gathered from the most significant Razor Clam refe
 
 ## 4 Mechanical Equations
 
-The team decided to make a few assumptions before calculating the values below. The normal force from the ground is undamped, thus, the force the clam pushes into the ground will be met by an equal opposing force. Additionally, gravity is a constant 9.81m/sec2. The team will use 40mm for slide length calculations and a 0.2 coefficient of friction will be used.
+  The team decided to make a few assumptions before calculating the values below. The normal force from the ground is undamped, thus, the force the clam pushes into the ground will be met by an equal opposing force. Additionally, gravity is a constant 9.81m/sec2. The team will use 40mm for slide length calculations and a 0.2 coefficient of friction will be used.
 
 ## 4.1 Vertical Thrust Force
 
-We will calculate the force in the forward x direction given [12]. This will be equal to the sum of forces in the x direction. In this case:  Fx = FThrust - FFriction - FDrag. Ft(given: 227.9mN) - Ff(µ*m*g) - Fd(given: 30mN) = 227.9mN-.2*.76*9.81-30nM = 182.99mN. As a result, the total force needed to thrust forward is 183mN. 
+  We will calculate the force in the forward x direction given [12]. This will be equal to the sum of forces in the x direction. In this case:  Fx = FThrust - FFriction - FDrag. Ft(given: 227.9mN) - Ff(µ*m*g) - Fd(given: 30mN) = 227.9mN-.2*.76*9.81-30nM = 182.99mN. As a result, the total force needed to thrust forward is 183mN. 
 
 ## 4.2 Peak Power
 
-We will calculate the total amount of power required per mass density of clams. In this case: Power = Force * Velocity; P = 182.99mN (above equations) * .5805m/s = 106.23mw. When we divide this by the mass density of the cockroach we are left with the power per mass density which equates to 139.77 mw/g.![Uploading Screen Shot 2021-04-05 at 10.27.00 PM.png…]()
+  We will calculate the total amount of power required per mass density of clams. In this case: Power = Force * Velocity; P = 182.99mN (above equations) * .5805m/s = 106.23mw. When we divide this by the mass density of the cockroach we are left with the power per mass density which equates to 139.77 mw/g.![Uploading Screen Shot 2021-04-05 at 10.27.00 PM.png…]()
 
 
 ## 4.3 Expected Energy
@@ -68,8 +68,6 @@ We will calculate the total amount of power required per mass density of clams. 
 We will calculate the kinetic energy of a clam using basic kinetic formulas. The amount of energy that is required for a clam to move depends on the mass and average velocity of the clam. As a result, the kinetic energy will rage based on the minimum and maximum mass of a clam [1]. Minimum Kinetic Energy = 0.5*m*v^2 = 0.5*0.6*(58Cm s^-1)^2  = 6.75E-7 J. Maximum Kinetic Energy = 0.5*m*v^2 = 0.5*0.92(based on big cockroach [1])*(58Cm s^-1)^2  = 1.035E-6 J. As a result, the average kinetic energy used by a clam ranges anywhere from 6.75E-7 J to 1.035E-6 J.
 
 ## 5 Figures From Literature
-
-  
  
 <p align="center"> 
   <img width="375" alt="Screen Shot 2021-04-05 at 10 27 49 PM" src="https://user-images.githubusercontent.com/75342978/113663051-295d3a80-965e-11eb-8dfa-6c4cb1c0cc95.png">  
@@ -106,7 +104,7 @@ We will calculate the kinetic energy of a clam using basic kinetic formulas. The
   <img width="519" alt="Concept Sketch" src="https://user-images.githubusercontent.com/74432571/115831179-17052f80-a3c6-11eb-8175-d49e669e9333.JPG">
   </p> 
 
-As depicted in the Figure above, the system uses three sarrus mechanisms, three springs, and three cables to expand and contract each mechanism seperately. Similar to the "foot" muscle of the razor clam, the top and bottom sarrus mechanisms will be used as anchor points to wedge between two walls. The middle link will be used to expand and contract the anchor points from one another. When the system is at rest, the springs will push on the top and bottom sarrus links and keep the mechanism expanded. With the use of a small motor, the sarrus mechanism can be contracted based on the amount of cable it retracts around the spool. This will allow the robot clam to contract each sarrus mechanism and wedge between two walls. To translate upwards along a vertical crevice, the topmost sarrus mechanism will contract and lock into place. The middle sarrus mechanism will contract and pull the bottom mechanism upwards. Then the bottom sarrus mechanism contracts and locks into place. The top sarrus mechanism will then expand, followed by the middle mechanism expanding and the process repeats. 
+  As depicted in the Figure above, the system uses three sarrus mechanisms, three springs, and three cables to expand and contract each mechanism seperately. Similar to the "foot" muscle of the razor clam, the top and bottom sarrus mechanisms will be used as anchor points to wedge between two walls. The middle link will be used to expand and contract the anchor points from one another. When the system is at rest, the springs will push on the top and bottom sarrus links and keep the mechanism expanded. With the use of a small motor, the sarrus mechanism can be contracted based on the amount of cable it retracts around the spool. This will allow the robot clam to contract each sarrus mechanism and wedge between two walls. To translate upwards along a vertical crevice, the topmost sarrus mechanism will contract and lock into place. The middle sarrus mechanism will contract and pull the bottom mechanism upwards. Then the bottom sarrus mechanism contracts and locks into place. The top sarrus mechanism will then expand, followed by the middle mechanism expanding and the process repeats. 
 
 
 ## 7 Discussion
@@ -115,18 +113,13 @@ As depicted in the Figure above, the system uses three sarrus mechanisms, three 
 
 _Discuss / defend your rationale for the size animal you selected in terms of your ability to replicate key features remotely with limited material selection._
 
-Our team decided to model our bio-inspired mechanism after an American Cockroach. The cockroach is known to fit in spaces as small as 3mm, which is regularly referenced to the height of two stacked pennies [9]. For this reason, our team has decided to scale the mechanism up. It would be extremely difficult to develop a mechanism 3mm thin with the class budget. The actuators on our mechanism would outweigh the actual weight of a cockroach [1]. As a result, we will need to scale the design's mass up in order to mimic the weight to power density ratio of a cockroach [1]. 
+  Our team decided to model our bio-inspired mechanism after a razor clam. The razor clam is known for its ability to pull itself with a force of 10N given its small size. For this reason, our team has decided to scale the mechanism down in strength but up in size. It would be extremely difficult to develop a mechanism with 10N of pulling force and inches in size with the class budget. The actuators on our mechanism would outweigh the actual weight of a razor clam. As a result, we will need to scale the design's mass up in order to mimic the weight to power density ratio of a razor clam. 
 
 ## 7.2 Motor and Power Selection
 
 _Find a motor and battery that can supply the mechanical power needs obtained above. Consider that motor efficiencies may be as high as 95%, but if you can’t find it listed, assume you find a more affordable motor at 50-70% efficiency. Compare the mechanical watts/kg for the necessary motor and battery vs the animal’s mechanical power/mass above? Which one is more energy dense?_
 
-For motor efficiency the equation is power output over power input multiplied by 100%. To get the power output of the mechanical system, the velocity of a biological cockroach was used, .5808 meters per second. This required changing into angular velocity  by multiplying by 2 PI. This yielded 3.6474mN. Taking the torque of a Faulhaber Series 2668 DC-micromotor, the specified motor which is 68nM and multiplying by the angular velocity, 248.02mw was obtained. Using the motor chart for power in of 254.3mw, the motor efficiency was calculated to be 97.53%. In order to obtain the power density, the power out (254.3mw) was divided by the size of the motor assembly (189g) which yielded a density of 1.31mw per gram. When compared to the power density ratio of a biological cockroach (formula seen in previous section) of 139.77mw/g there is no contest between the two; clearly, the cockroach has a higher energy density.
-
-
-
-
-
+  For motor efficiency the equation is power output over power input multiplied by 100%. To get the power output of the mechanical system, the velocity of a razor clam was used, .5808 meters per second. This required changing into angular velocity  by multiplying by 2 PI. This yielded 3.6474mN. Taking the torque of a Faulhaber Series 2668 DC-micromotor, the specified motor which is 68nM and multiplying by the angular velocity, 248.02mw was obtained. Using the motor chart for power in of 254.3mw, the motor efficiency was calculated to be 97.53%. In order to obtain the power density, the power out (254.3mw) was divided by the size of the motor assembly (189g) which yielded a density of 1.31mw per gram. When compared to the power density ratio of a razor clam (formula seen in previous section) of 139.77mw/g there is no contest between the two; clearly, the cockroach has a higher energy density.
 
 ## References
 
