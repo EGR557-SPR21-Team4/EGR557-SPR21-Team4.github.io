@@ -103,7 +103,7 @@ We will calculate the kinetic energy of a clam using basic kinetic formulas. The
 ## 6 Engineering Drawing
 
   <p align="center">
-  <img width="519" alt="Screen Shot 2021-02-08 at 4 07 02 PM" src="https://user-images.githubusercontent.com/75342978/107292805-b05bb100-6a27-11eb-8443-3422ec2d612e.png">
+  <img width="519" alt="Concept Sketch" src="https://user-images.githubusercontent.com/74432571/115831179-17052f80-a3c6-11eb-8175-d49e669e9333.JPG">
   </p> 
 
 As depicted in the Figure above, the system uses three sarrus mechanisms, three springs, and three cables to expand and contract each mechanism seperately. Similar to the "foot" muscle of the razor clam, the top and bottom sarrus mechanisms will be used as anchor points to wedge between two walls. The middle link will be used to expand and contract the anchor points from one another. When the system is at rest, the springs will push on the top and bottom sarrus links and keep the mechanism expanded. With the use of a small motor, the sarrus mechanism can be contracted based on the amount of cable it retracts around the spool. This will allow the robot clam to contract each sarrus mechanism and wedge between two walls. To translate upwards along a vertical crevice, the topmost sarrus mechanism will contract and lock into place. The middle sarrus mechanism will contract and pull the bottom mechanism upwards. Then the bottom sarrus mechanism contracts and locks into place. The top sarrus mechanism will then expand, followed by the middle mechanism expanding and the process repeats. 
