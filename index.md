@@ -44,7 +44,7 @@ Note: this file is only viewable through Jupyter Notebook. Click [here](Design_a
 
 [Data Files]()  
 [Videos/Images](additional_video_images.md)  
-[CAD and Design Files]()  
+[CAD and Design Files](Final_Foldable_Fobotics_CAD_Files.zip)  
 [Code Files]()
 
 ## Presentations
