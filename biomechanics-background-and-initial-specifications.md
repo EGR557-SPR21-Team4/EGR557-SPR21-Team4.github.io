@@ -52,20 +52,20 @@ The following information was gathered from the most significant Razor Clam refe
 
 ## 4 Mechanical Equations
 
-  The team decided to make a few assumptions before calculating the values below. The normal force from the ground is undamped, thus, the force the clam pushes into the ground will be met by an equal opposing force. Additionally, gravity is a constant 9.81m/sec2. The team will use 40mm for slide length calculations and a 0.2 coefficient of friction will be used.
+  The team decided to make a few assumptions before calculating the values below. The normal force from the ground is undamped, thus, the force the clam pushes into the ground will be met by an equal opposing force. Additionally, gravity is a constant 9.81m/sec2. The team will use 5mm for stride length calculations, as is the averge downward stride length. 
 
 ## 4.1 Vertical Thrust Force
 
-  We will calculate the force in the forward x direction given [12]. This will be equal to the sum of forces in the x direction. In this case:  Fx = FThrust - FFriction - FDrag. Ft(given: 227.9mN) - Ff(µ*m*g) - Fd(given: 30mN) = 227.9mN-.2*.76*9.81-30nM = 182.99mN. As a result, the total force needed to thrust forward is 183mN. 
+  The force exerted by the clam varies based on the direction in which hte clam is moving. At its peak, the razor clam is able to exert 10N as it pulls its body into the ground. 
 
 ## 4.2 Peak Power
 
-  We will calculate the total amount of power required per mass density of clams. In this case: Power = Force * Velocity; P = 182.99mN (above equations) * .5805m/s = 106.23mw. When we divide this by the mass density of the cockroach we are left with the power per mass density which equates to 139.77 mw/g.
+  We will calculate the total amount of power required per mass density of clams. In this case: Power = Force * Velocity; Power = 10N[3]*0.01m[2] = 0.1w. If this value is divided by the mass of a razor clam, the power per mass density can be obtained. There were no findings on the average mass of a razor clam, which will vary greatly by age, length, and subspecies.
 
 
 ## 4.3 Expected Energy
 
-We will calculate the kinetic energy of a clam using basic kinetic formulas. The amount of energy that is required for a clam to move depends on the mass and average velocity of the clam. As a result, the kinetic energy will rage based on the minimum and maximum mass of a clam [1]. Minimum Kinetic Energy = 0.5*m*v^2 = 0.5*0.6*(58Cm s^-1)^2  = 6.75E-7 J. Maximum Kinetic Energy = 0.5*m*v^2 = 0.5*0.92(based on big cockroach [1])*(58Cm s^-1)^2  = 1.035E-6 J. As a result, the average kinetic energy used by a clam ranges anywhere from 6.75E-7 J to 1.035E-6 J.
+We planned to calculate the kinetic energy of a clam using basic kinetic formulas. The amount of energy that is required for a clam to move depends on the mass and average velocity of the clam. As a result, the kinetic energy will rage based on the size of a razor clam [1]. Fortunately this value has already been calculated, and the average energy expended by the razor clam is 0.21 J/cm for one full burrowing cycle [2].
 
 ## 5 Figures From Literature
  
